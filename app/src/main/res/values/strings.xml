@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practica 1</string>
+    <string name="texto_textView">Mi primer app</string>
+
+    <string name="texto_button_login">LOGIN</string>
+    <string name="texto_button_guardar">GUARDAR</string>
+    <string name="texto_button_buscar">BUSCAR</string>
+    <string name="texto_button_enviar">ENVIAR</string>
+    <string name="texto_button_autenticar">AUTENTICAR</string>
+
+    <string name="texto_edittext_usuario">Ingrese Usuario</string>
+    <string name="texto_edittext_clave">Ingrese Clave</string>
+    <string name="texto_edittext_nombre">Ingrese Nombre</string>
+    <string name="texto_edittext_apellido">Ingrese Apellido</string>
+    <string name="texto_edittext_cedula">Ingrese Cedula</string>
+
+    <string name="texto_TextView_datos">INGRESAR DATOS</string>
+
+</resources>
